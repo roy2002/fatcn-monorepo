@@ -10,8 +10,9 @@ export * from './dropdown';
 export * from './input';
 export * from './pagination';
 export * from './sidebar';
+export * from './switch';
 export * from './table';
 export * from './tabs';
 export * from './tooltip';
-export * from './use-toast';
+export * from './use-toast'
 
